@@ -1,0 +1,28 @@
+{
+  "name": "@martin-fenocchio/simple_copy",
+  "version": "1.0.0",
+  "description": "A javascript library for easy copy text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Novak-Fenocchio/simple_copy.git"
+  },
+  "keywords": [
+    "copy",
+    "utility",
+    "tool",
+    "easycopy",
+    "simple copy",
+    "simple",
+    "universalcopy"
+  ],
+  "author": "Martin Fenocchio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Novak-Fenocchio/simple_copy/issues"
+  },
+  "homepage": "https://github.com/Novak-Fenocchio/simple_copy#readme"
+}
