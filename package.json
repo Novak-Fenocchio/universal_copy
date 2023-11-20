@@ -1,6 +1,6 @@
 {
   "name": "@martin-fenocchio/simple_copy",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A javascript library for easy copy text",
   "main": "index.js",
   "scripts": {

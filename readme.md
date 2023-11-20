@@ -2,7 +2,7 @@
 
 This is a small npm library for copying text to the clipboard. It's very simple to use and works in web applications.
 
-## INSTALATION
+## Instalation
 
 Install the library with npm:
 
@@ -20,7 +20,7 @@ import { copyText } from "@martin-fenocchio/simple_copy";
 copyText("Hello World!");
 ```
 
-## Funciones
+## Functions
 
 #### copyText(text)
 
