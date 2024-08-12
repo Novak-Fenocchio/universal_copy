@@ -7,4 +7,4 @@ function copyText(text) {
   textField.remove();
 }
 
-module.exports = copyText;
+module.exports = { copyText };
