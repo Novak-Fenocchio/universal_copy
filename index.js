@@ -1,4 +1,4 @@
-function copyText(texto) {
+function copyText(text) {
   const textField = document.createElement("textarea");
   textField.innerText = text;
   document.body.appendChild(textField);

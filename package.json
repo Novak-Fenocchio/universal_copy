@@ -3,6 +3,7 @@
   "version": "1.0.3",
   "description": "A javascript library for easy copy text",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
