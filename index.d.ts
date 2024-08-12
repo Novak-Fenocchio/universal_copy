@@ -1,3 +1,3 @@
 declare module "@martin-fenocchio/simple_copy" {
-  export function copy(text: string): void;
+  export function copyText(text: string): void;
 }
