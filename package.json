@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Novak-Fenocchio/simple_copy.git"
+    "url": "git+https://github.com/Martin-Fenocchio/simple_copy.git"
   },
   "keywords": [
     "copy",
@@ -23,7 +23,10 @@
   "author": "Martin Fenocchio",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Novak-Fenocchio/simple_copy/issues"
+    "url": "https://github.com/Martin-Fenocchio/simple_copy/issues"
   },
-  "homepage": "https://github.com/Novak-Fenocchio/simple_copy#readme"
+  "homepage": "https://github.com/Martin-Fenocchio/simple_copy#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }

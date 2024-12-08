@@ -35,3 +35,6 @@ If you would like to contribute to this project, please submit a pull request wi
 ## License
 
 This project is licensed under the MIT License.
+
+![npm version](https://img.shields.io/npm/v/@martin-fenocchio/simple_copy)
+![npm downloads](https://img.shields.io/npm/dm/https://img.shields.io/npm/v/@martin-fenocchio/simple_copy)
